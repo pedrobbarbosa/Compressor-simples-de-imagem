@@ -1,0 +1,14 @@
+{
+  "name": "RLE",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "typescript": "^4.1.3"
+  },
+  "devDependencies": {
+    "@types/assert": "^1.5.3",
+    "@types/node": "^14.14.20"
+  }
+}
